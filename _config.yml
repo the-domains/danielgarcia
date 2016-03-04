@@ -1,0 +1,28 @@
+name: danielgarcia
+favicon: null
+layout_spectrum: 0.6659891919698566
+typography_spectrum: 0.5851369735319167
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.24396235239692032
+  lightness: 0.998907036613673
+  saturation: 0.9926920558791608
+  rhythmicContrast: 0.7218839626293629
+purpose: []
