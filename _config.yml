@@ -2,6 +2,7 @@ name: danielgarcia
 favicon: null
 layout_spectrum: 0.15895
 typography_spectrum: 0.57551
+title: Vendus
 cta:
   domain: null
   bucket: null
